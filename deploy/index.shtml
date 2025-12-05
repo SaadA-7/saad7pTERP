@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>saad7 render deployment</title>
+</head>
+<body>
+  <ul>
+   <li><Strong>Name: </Strong>Saad Ahmad</li>
+   <li><Strong>Github Location: </Strong>https://github.com/SaadA-7/saad7pTERP</li>
+   <li><Strong>Render Location: </Strong>TODO</li>
+   <li><Strong>Clearing Database Movies: </Strong>TODO</li>
+   <li><Strong>Inserting Movies: </Strong>TODOs</li>
+   <li><Strong>List Movies: </Strong>TODO</li>
+  </ul>
+</body>
+</html>
